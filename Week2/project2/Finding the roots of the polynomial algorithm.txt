@@ -1,0 +1,23 @@
+1.Start
+
+2.Ask the user to choose the type of equation:
+
+	.2 for Quadratic (Ax² + Bx + C = 0)
+
+	.3 for Cubic (Ax³ + Bx² + Cx + D = 0)
+
+	.4 for Quartic (Ax⁴ + Bx³ + Cx² + Dx + E = 0)
+
+3.Ask the user to enter the coefficients (A, B, C, etc.).
+
+4. Based on the chosen type:
+
+	If Quadratic, use the quadratic formula to find roots.
+
+	If Cubic, solve using a numerical method like numpy.roots().
+
+	If Quartic, solve using numpy.roots() as well.
+
+5. Display the roots.
+
+6. End.
