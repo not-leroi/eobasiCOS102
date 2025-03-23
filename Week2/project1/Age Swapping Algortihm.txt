@@ -1,0 +1,7 @@
+1. Start
+2. Input Name1
+3. Input Name 2
+4. Input Age 1
+5. Input Age 2
+6. Print Name1 with Age2
+7. Print Name2 with Age1

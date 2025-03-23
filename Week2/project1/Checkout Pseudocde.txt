@@ -1,0 +1,9 @@
+Start
+1. Scan items
+2. Calculate total price
+3. Display the total aount
+4. Ask customer to choose payment method (Cash, Card, or Transfer)
+5. If payment is successful - a.Print receipt
+                              b.End
+6. If payment is not successfiul - a. Print "Insufficient Funds"
+ 				   b. End	

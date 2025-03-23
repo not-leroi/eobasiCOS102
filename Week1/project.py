@@ -3,7 +3,7 @@ r= int(input("Input the rate: "))
 t = int(input("Input the number of years: "))
 n = int(input("How many times did the interest apply per time: "))
 pmt = int(input("Input your PMT: "))
-calculate = input("What do you want to calculate? SI (Simple interest), CI (Compund Interest) or AP(Annuity Plan)? ").upper()
+calculate = input("What do you want to calculate? SI (Simple interest), CI (Compound Interest) or AP(Annuity Plan)? ").upper()
 
 if calculate == "SI":
     a = p * (1 + (r / 100) * t)
